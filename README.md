@@ -1,4 +1,4 @@
-# Spotify-Clone🔥![GitHub watchers] ![GitHub Repo stars](https://img.shields.io/github/stars/Aman12305/spotify-clone?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=Aman12305/spotify-clone")
+# Spotify-Clone🎶![GitHub watchers] ![GitHub Repo stars](https://img.shields.io/github/stars/Aman12305/spotify-clone?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=Aman12305/spotify-clone")
 
 
 **[Spotify-Clone]** is a music streaming app which only includes streaming song and normal player function i am using following tech stack Firebase(Authentication, Firestore , Cloud Storage)
