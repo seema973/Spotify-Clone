@@ -85,7 +85,7 @@ const q = query(colRef, where('category', '==', 'Top Hits Hindi'));
 
 //     console.log(user);
 
-// })
+// }) 
 
 let signform = document.getElementById('signform');
 let signup = document.getElementById('signup');
